@@ -41,7 +41,8 @@ http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="ratnik" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="Общественные",Ратник (HD)
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://peers.tv/
+https://hls.peers.tv/streaming/ratnik/126/copy/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",Рен ТВ (EDTV 576p)
 http://93.189.224.246:52900/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Общественные",Рен ТВ (HD)
@@ -171,6 +172,9 @@ http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
 http://stream2.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="Детские",Радость моя (WSVGA)
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="sskazki-zayki" tvg-logo="https://iptvx.one/picons/skazki-zayki.png" group-title="Детские",Сказки Зайки (960x540)
+#EXTVLCOPT:http-referrer=https://peers.tv/
+https://hls.peers.tv/streaming/skazkizayki/16/variable.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="Детские",Смайл ТВ (HD ready)
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце (EDTV 480p)
