@@ -466,6 +466,9 @@ http://hls127.homeiptv.org:8880/Bolt/video.m3u8
 rtmp://5.182.229.90//7260
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="Русский кинозал",Star Cinema (EDTV 576p)
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
+#EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="Русский кинозал",Star Cinema (HD)
+#EXTVLCOPT:http-referrer=https://peers.tv/
+https://hls.peers.tv/streaming/star_cinema_hd/16/variable.m3u8
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://iptvx.one/picons/star-family.png" group-title="Русский кинозал",Star Family (EDTV 576p)
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://iptvx.one/picons/start-air.png" group-title="Русский кинозал",Start Air (HD)
@@ -601,8 +604,9 @@ http://93.189.224.246:52900/play/a008/index.m3u8
 https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="voprosy-i-otvety" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные",Вопросы и ответы (EDTV 576p)
 https://stream2.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="Познавательные", ЕГЭ ТВ (EDTV 576p)
-
+#EXTINF:-1 tvg-id="ege-tv" tvg-logo="https://iptvx.one/picons/ege-tv.png" group-title="Познавательные", ЕГЭ ТВ (SDTV 540p)
+#EXTVLCOPT:http-referrer=https://peers.tv/
+https://hls.peers.tv/streaming/ege/16/vh1/playlist.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Познавательные",Живая Планета (EDTV 576p)
 http://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png" group-title="Познавательные",Живая Природа (HD)
