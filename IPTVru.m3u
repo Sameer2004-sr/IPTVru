@@ -255,9 +255,8 @@ http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 http://185.23.80.28:8080/Teatr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://iptvx.one/picons/tochka-tv.png" group-title="Развлекательные",Точка ТВ (EDTV 576p)
 https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 576p)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="http://epg.one/img2/353.png" group-title="Развлекательные",ТНТ (EDTV 576p)
+http://185.23.80.28:8080/TNT/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные",ТНТ (HD ready)
 http://185.23.80.28:8080/TNT_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://iptvx.one/picons/tnt-kz.png" group-title="Развлекательные",ТНТ Kазахстан (EDTV 480p)
