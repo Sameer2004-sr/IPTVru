@@ -20,9 +20,9 @@ https://smolnp.github.io/IPTVru//IPTVru.m3u
 ```
 ### Ссылка на плейлист IPTV Стабильный:
 ```
-https://smolnp.github.io/IPTVru//IPTVmini.m3u
+https://smolnp.github.io/IPTVru//IPTVstable.m3u8
 ```
-(Минимальный плейлист, со стабильными каналами. Количество каналов не превышает 150).
+(Минимальный плейлист, со стабильными каналами. Пулреквесты не принимются).
 
 ### Ссылка на плейлист IPTV Мир:
 ```
