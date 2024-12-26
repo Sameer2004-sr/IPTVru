@@ -135,26 +135,32 @@ http://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="familyjam" tvg-logo="https://iptvx.one/picons/familyjam.png" group-title="Детские",FamilyJam (HD)
 http://88.218.242.237:8000/play/a00b
-#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://iptvx.one/picons/baby-tv.png" group-title="Детские",Baby TV
+#EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://iptvx.one/picons/baby-tv.png" group-title="Детские",Baby TV (EDTV 576p)
 http://178.219.128.68:64889/BABYTV
-#EXTINF:-1 group-title="Детские",Nickelodeon Poland
+#EXTINF:-1 group-title="Детские",Nickelodeon Poland (EDTV 576p)
 http://178.219.128.68:64889/NICK
-#EXTINF:-1 group-title="Детские",Nick Jr. CEE
+#EXTINF:-1 group-title="Детские",Nick Jr. CEE (EDTV 576p)
 http://178.219.128.68:64888/NICKJR
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские",Nickelodeon Global (EDTV 576p)
 http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="Детские",Nickelodeon Global (HD)
 http://stream01.vnet.am/Channel_114/mono.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon UK (HD)
+https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-id="423" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon East (HD ready)
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детские",Nick Jr. Global (EDTV 576p)
 rtmp://212.0.213.132//NickJr
 #EXTINF:-1 tvg-id="917" tvg-logo="http://epg.one/img2/917.png" group-title="Детские",Nick Jr East (HD ready)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr UK (HD ready)
+https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="Детские",NickMusic (WSVGA)
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://iptvx.one/picons/nicktoons.png" group-title="Детские",NickToons Global (HD)
 http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="Детские",NickToons UK (WSVGA)
+https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 group-title="Детские",Nicktoons EN (HD ready)
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки (EDTV 576p)
