@@ -151,9 +151,9 @@ https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/liv
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://iptvx.one/picons/nick-jr.png" group-title="Детские",Nick Jr. Global (EDTV 576p)
 rtmp://212.0.213.132//NickJr
-#EXTINF:-1 tvg-id="917" tvg-logo="http://epg.one/img2/917.png" group-title="Детские",Nick Jr East (HD ready)
+#EXTINF:-1 tvg-id="917" tvg-logo="http://epg.one/img2/917.png" group-title="Детские",Nick Jr. East (HD ready)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 group-title="Детские",Nick Jr UK (HD ready)
+#EXTINF:-1 group-title="Детские",Nick Jr. UK (HD ready)
 https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="Детские",NickMusic (WSVGA)
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
@@ -161,7 +161,7 @@ http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 http://stream01.vnet.am/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детские",NickToons UK (WSVGA)
 https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 group-title="Детские",Nicktoons EN (HD ready)
+#EXTINF:-1 group-title="Детские",NickToons EN (HD ready)
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvx.one/picons/v-gostiax-u-skazki.png" group-title="Детские",В гостях у сказки (EDTV 576p)
 
