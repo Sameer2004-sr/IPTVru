@@ -549,6 +549,8 @@ http://185.23.80.28:8080/Galaxy/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png" group-title="Познавательные",ID (HD)
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Nano (HD)
+http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic (EDTV 576p)
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (EDTV 576p)
@@ -579,7 +581,7 @@ http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="http://epg.one/img2/2768.png" group-title="Познавательные",Арсенал (HD)
 http://45.143.108.104/arsenal/index.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Познавательные",Беларусь 3 (HD ready)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+http://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Познавательные",Беларусь 3 (HD)
 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательные",В мире животных (HD ready)
@@ -600,22 +602,20 @@ http://stream01.vnet.am/Istoria/mono.m3u8
 
 #EXTINF:-1 tvg-id="morskoy" tvg-logo="https://iptvx.one/picons/morskoy.png" group-title="Познавательные",Моя стихия (EDTV 576p)
 http://130.193.73.10:8937/play/a02f
-#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Нано (WSVGA)
-
 #EXTINF:-1 tvg-id="nauka-20" tvg-logo="https://iptvx.one/picons/nauka-20.png" group-title="Познавательные",Наука (HD)
-
+http://stream1.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Познавательные",НТВ Право (EDTV 576p)
 http://130.193.73.10:8937/play/a01s
 #EXTINF:-1 tvg-id="nasha-sibir" tvg-logo="https://iptvx.one/picons/nasha-sibir.png" group-title="Познавательные",Наша Сибирь (HD)
 
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.one/img2/675.png" group-title="Познавательные",Моя Планета (EDTV 576p)
-
+http://86.57.198.251:8181/play/1033/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.one/img2/675.png" group-title="Познавательные",Моя Планета (HD)
-
+http://stream1.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="Познавательные",ОКЕАН (EDTV 576p)
 
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="http://epg.one/img2/2310.png" group-title="Познавательные",Первый Космический (HD)
-
+http://stream01.vnet.am/Evrika/mono.m3u8
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Познавательные",Поехали! (EDTV 576p)
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение (720×540)
@@ -623,7 +623,7 @@ http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="psixologia-21" tvg-logo="https://iptvx.one/picons/psixologia-21.png" group-title="Познавательные",Психология (EDTV 576p)
 
 #EXTINF:-1 tvg-id="187" tvg-logo="http://epg.one/img2/187.png" group-title="Познавательные",Россия К (HD)
-
+https://player.smotrim.ru/iframe/stream/live_id/381308c7-a066-4c4f-9656-83e2e792a7b4
 #EXTINF:-1 tvg-id="texno-24" tvg-logo="https://iptvx.one/picons/texno-24.png" group-title="Познавательные",Т24 (EDTV 576p)
 http://stream2.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
@@ -640,17 +640,17 @@ http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="glazami-turista" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="Хобби и увлечения",Глазами туриста (WSVGA)
 http://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" tvg-logo="https://iptvx.one/picons/dialogi-o-rybalke.png" group-title="Хобби и увлечения",Диалоги о рыбалке (EDTV 576p)
-
+http://130.193.73.10:8937/play/a04q
 #EXTINF:-1 tvg-id="doktor" tvg-logo="https://iptvx.one/picons/doktor.png" group-title="Хобби и увлечения",Доктор (EDTV 576p)
-
+http://130.193.73.10:8937/play/a01q
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-logo="http://epg.one/img2/520.png" group-title="Хобби и увлечения",Домашние Животные (900x720)
 http://stream2.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" tvg-logo="http://epg.one/img2/2483.png" group-title="Хобби и увлечения",Дикая Охота (HD)
-
+http://stream01.vnet.am/Channel_127/mono.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-logo="http://epg.one/img2/2484.png" group-title="Хобби и увлечения",Дикая Рыбалка (HD)
-
+http://stream01.vnet.am/Channel_126/mono.m3u8
 #EXTINF:-1 tvg-id="dikiy" tvg-logo="http://epg.one/img2/2283.png" group-title="Хобби и увлечения",Дикий (EDTV 576p)
-
+http://130.193.73.10:8937/play/a04s
 #EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="Хобби и увлечения",ДРАЙВ (EDTV 576p)
 http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Хобби и увлечения",Еда (nHD)
@@ -659,10 +659,10 @@ http://88.218.242.237:8000/play/a00r
 http://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь (EDTV 576p)
 
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img2/2463.png" group-title="Хобби и увлечения",Загородный (480p)
-
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="http://epg.one/img2/2463.png" group-title="Хобби и увлечения",Загородный (EDTV 576p)
+http://stream1.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zagorodny-int" tvg-logo="https://iptvx.one/picons/zagorodny-int.png" group-title="Хобби и увлечения",Загородный Int (HD)
-
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Хобби и увлечения",Здоровое ТВ (EDTV 576p)
 http://stream1.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lapki-live" tvg-logo="https://iptvx.one/picons/lapki-live.png" group-title="Хобби и увлечения",Лапки Live (EDTV 576p)
@@ -690,15 +690,17 @@ http://130.193.73.10:8937/play/a021
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Хобби и увлечения",Усадьба (EDTV 576p)
 http://130.193.73.10:8937/play/a024
 
-#EXTINF:-1 tvg-id="12-omsk" tvg-logo="http://epg.one/img2/5841.png" group-title="Региональные",12 Канал (Омск) (WSVGA)
-
+#EXTINF:-1 tvg-id="12-omsk" tvg-logo="http://epg.one/img2/5841.png" group-title="Региональные",12 Канал (Омск) (HD)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="astraxan24" tvg-logo="https://iptvx.one/picons/astraxan24.png" group-title="Региональные",Астрахань 24 (HD)
 http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="Региональные",Башкортостан 24 (HD ready)
-
+#EXTINF:-1 tvg-id="bashkortostan24" tvg-logo="https://iptvx.one/picons/bashkortostan24.png" group-title="Региональные",Башкортостан 24 (HD)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="brianskaya-gubernia" tvg-logo="https://iptvx.one/picons/brianskaya-gubernia.png" group-title="Региональные",Брянская губерния (HD)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://dmi3y-tv.ru/hls/zabava/region/BRYANSK/CH_BRGUBERNIAHD.m3u8
+#EXTINF:-1 tvg-id="vektor-24" tvg-logo="https://iptvx.one/picons/vektor-24.png" group-title="Региональные",Вектор 24 (HD ready)
+http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
 #EXTINF:-1 tvg-id="vetta24" tvg-logo="https://iptvx.one/picons/vetta24.png" group-title="Региональные",Ветта 24 (Пермь) (EDTV 480p)
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="volga" tvg-logo="http://epg.one/img2/2468.png" group-title="Региональные",Волга (Нижний Новгород) (HD)
@@ -742,8 +744,8 @@ https://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 tvg-id="russky-sever" tvg-logo="https://iptvx.one/picons/russky-sever.png" group-title="Региональные",Русский Север (Вологда) (HD)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
-#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="http://epg.one/img2/690.png" group-title="Региональные",Санкт-Петербург (HD)
-
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-logo="http://epg.one/img2/690.png" group-title="Региональные",Санкт-Петербург (HD ready)
+http://streamsrv2.tvspb.ru/APP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="sarov-24" tvg-logo="http://epg.one/img2/6794.png" group-title="Региональные",Саров 24 (HD ready)
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="insit-tv" tvg-logo="https://iptvx.one/picons/insit-tv.png" group-title="Региональные",ЮУрГУ (Челябинск) (HD ready)
