@@ -61,18 +61,28 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 
+#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="Информационные",ABC News Live (HD)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="cbs-news-us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png" group-title="Информационные",CBS News 24/7 (HD)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc833037-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c76b19c9-a2e7-4ca7-bdfa-6632447d1e96
 #EXTINF:-1 tvg-id="2128" tvg-logo="https://epg.one/img2/2128.png" group-title="Информационные",CNBC (HD)
-
+http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://iptvx.one/picons/cnn.png" group-title="Информационные",CNN (HD)
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="bbc" tvg-logo="https://iptvx.one/picons/bbc.png" group-title="Информационные",BBC World News (EDTV 576p)
 http://stream2.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
 https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-id="fox-news-us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Информационные",Fox News Channel (HD)
 http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" tvg-logo="fox-business-us" group-title="Информационные",Fox Business (HD)
+http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные",France 24 (HD)
 http://stream2.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nbc-news-now-us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="Информационные",NBC News NOW (HD ready)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" tvg-logo="newsmax-tv-us" group-title="Информационные",Newsmax TV (HD ready)
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Информационные",Russia Today (HD)
 http://cdn-01.bonus-tv.ru:80/RussiaToday/index.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Информационные",360° Новости (HD)
