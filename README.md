@@ -26,7 +26,7 @@ https://smolnp.github.io/IPTVru//IPTVstable.m3u8
 
 ### Ссылка на плейлист IPTV Мир:
 ```
-https://smolnp.github.io/IPTVru//IPTVmir.m3u8
+https://smolnp.github.io/IPTVru//IPTVmir.m3u
 ```
 (Плейлист не модерируется, поддерживается только пользователями).
 
