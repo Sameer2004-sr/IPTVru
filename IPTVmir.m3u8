@@ -799,7 +799,9 @@ http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="euronews" tvg-logo="https://iptvx.one/picons/euronews.png" group-title="Информационные",Euronews (HD)
 https://stream01.vnet.am/Channel_119/mono.m3u8
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://iptvx.one/picons/fox-news-us.png" group-title="Информационные",Fox News (HD)
-
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium347/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Business.us" tvg-logo="https://foxcareers.com/Content/img2019/OurBrands/logo-lg-fox-business-network.png" group-title="Информационные",Fox Business (HD)
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-id="France.24.English.us" tvg-logo="https://iptvx.one/picons/france24.png" group-title="Информационные",France 24 English (HD)
