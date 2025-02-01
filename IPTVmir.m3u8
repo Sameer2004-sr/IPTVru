@@ -732,32 +732,22 @@ http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="insit-tv" tvg-logo="https://iptvx.one/picons/insit-tv.png" group-title="Региональные",ЮУрГУ (Челябинск) (HD ready)
 http://tvrlive.susu.ru/1800k/playlist.m3u8
 
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="Радио",Авторадио
-http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
-http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio.png" group-title="Радио",Наше радио
-http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:-1 tvg-id="radio-dfm" tvg-logo="https://iptvx.one/picons/radio-dfm.png" group-title="Радио",Радио DFM
-http://dfm.hostingradio.ru/dfm128.mp3
-#EXTINF:-1 tvg-id="radio-mayak" tvg-logo="https://iptvx.one/picons/radio-mayak.png" group-title="Радио",Радио Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 tvg-id="radio-mir" tvg-logo="https://iptvx.one/picons/radio-mir.png" group-title="Радио",Радио Мир
-http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
-#EXTINF:-1 tvg-id="radio-na7xolmax" tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png" group-title="Радио",Радио на семи холмах
-http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
-#EXTINF:-1 tvg-id="radio-romantika" tvg-logo="https://iptvx.one/picons/radio-romantika.png" group-title="Радио",Радио Романтика
-http://ic7.101.ru:8000/v4_1
-#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://iptvx.one/picons/radio-shanson.png" group-title="Радио",Радио Шансон
-http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 tvg-id="radio-vania" tvg-logo="https://iptvx.one/picons/radio-vania.png" group-title="Радио",Радио Ваня
-http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
-#EXTINF:-1 tvg-id="retro-fm" tvg-logo="https://iptvx.one/picons/retro-fm.png" group-title="Радио",Ретро FM
-http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://iptvx.one/picons/xit-fm.png" group-title="Радио",Хит FM
-http://hitfm.hostingradio.ru/hitfm128.mp3
-#EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
-http://ic7.101.ru:8000/v5_1
+#EXTINF:-1 tvg-id="4fun" tvg-logo="https://iptvx.one/picons/4fun.png" group-title="Польша",4FUN TV (WSVGA)
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="ale-kino-plus" tvg-logo="https://iptvx.one/picons/ale-kino-plus.png" group-title="Польша",Ale Kino+ (HD)
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:-1 tvg-id="canal-pl-domo.png" tvg-logo="https://iptvx.one/picons/canal-pl-domo.png" group-title="Польша",Canal+ Domo (HD)
+http://178.219.128.68:64889/DOMOHD
+#EXTINF:-1 tvg-id="canal-pl-kuchnia" tvg-logo="https://iptvx.one/picons/canal-pl-kuchnia.png" group-title="Польша",Canal+ Kuchnia (HD)
+http://178.219.128.68:64889/KUCHHD
+#EXTINF:-1 tvg-id="disney-channel-pl" tvg-logo="https://iptvx.one/picons/disney-channel-pl.png" group-title="Польша",Disney Channel (HD)
+http://109.233.89.170/Disney_Channel/mono.m3u8
+#EXTINF:-1 tvg-id="disney-jr" tvg-logo="https://iptvx.one/picons/disney-jr.png" group-title="Польша",Disney Junior (EDTV)
+http://109.233.89.166/Disney_Junior/mono.m3u8
+#EXTINF:-1 tvg-id="disney-xd" tvg-logo="https://iptvx.one/picons/disney-xd.png" group-title="Польша",Disney XD (EDTV)
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="polsat" tvg-logo="https://iptvx.one/picons/polsat.png" group-title="Польша",Polsat (HD)
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
 #EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="Информационные",ABC News Live [US] (HD ready)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -793,25 +783,18 @@ https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="newsnation-us" tvg-logo="https://iptvx.one/picons/newsnation-us.png" group-title="Информационные",NewsNation [US] (HD ready)
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="Информационные",Sky News (HD ready)
 #EXTINF:-1 tvg-id="rt-news" tvg-logo="https://iptvx.one/picons/rt-news.png" group-title="Информационные",Russia Today (HD)
 http://cdn-01.bonus-tv.ru:80/RussiaToday/index.m3u8
 #EXTINF:-1 tvg-id="baby-tv" tvg-logo="https://iptvx.one/picons/baby-tv.png" group-title="Детские",Baby TV (EDTV)
 http://178.219.128.68:64889/BABYTV
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/423.png" group-title="Детские",Nickelodeon East (HD ready)
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonHD.uk" group-title="Детские",Nickelodeon UK (HD)
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.one/img2/917.png" group-title="Детские",Nick Jr. East (HD ready)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" group-title="Детские",Nick Jr. UK (WSVGA)
-
 #EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="Детские",NickMusic (WSVGA)
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.pl" group-title="Детские",Nickelodeon Poland (EDTV)
 http://178.219.128.68:64889/NICK
 #EXTINF:-1 tvg-id="Nickelodeon.es" group-title="Детские",Nickelodeon Spain (EDTV)
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.uk" group-title="Детские",Nicktoons UK (HD ready)
 
-#EXTINF:-1 tvg-id="tnt-kz" tvg-logo="https://iptvx.one/picons/tnt-kz.png" group-title="Развлекательные",ТНТ Kазахстан (EDTV)
