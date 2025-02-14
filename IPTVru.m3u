@@ -542,7 +542,7 @@ http://130.193.73.10:8937/play/a026
 #EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png" group-title="Познавательные",TERRA (EDTV)
 http://185.50.148.2:7707/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="univer-tv" tvg-logo="https://iptvx.one/picons/univer-tv.png" group-title="Познавательные",UNIVER (HD)
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Познавательные",Viju HISTORY (EDTV)
 http://185.50.148.2:7703/ViasatHistory/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Познавательные",Viju NATURE (EDTV)
@@ -550,7 +550,7 @@ http://213.226.137.140:81/tl/l96/index.m3u8
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history-hd.png" group-title="Познавательные",Viju+ planet (HD)
 http://130.193.73.10:8937/play/a01l
 #EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="Познавательные",ZOOПАРК (EDTV)
-https://flussonic.salomtv.uz/ZooPark/video.m3u8
+
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://iptvx.one/picons/arsenaltv.png" group-title="Познавательные",Арсенал (HD)
 http://185.23.80.28:8080/Arsenal_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://iptvx.one/picons/belarus3hd.png" group-title="Познавательные",Беларусь 3 (HD)
@@ -564,8 +564,7 @@ http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="Познавательные",Живая Планета (EDTV)
 http://130.193.73.10:8937/play/a01m
 #EXTINF:-1 tvg-id="zhivaya-priroda" tvg-logo="https://iptvx.one/picons/zhivaya-priroda.png" group-title="Познавательные",Живая Природа (HD)
-letta
-https://flussonic.salomtv.uz/JivayaPrirodaHD/video.m3u8
+
 #EXTINF:-1 tvg-id="zootv" tvg-logo="https://iptvx.one/picons/zootv.png" group-title="Познавательные",Зоо ТВ (EDTV)
 http://31.210.208.171:8080/zootv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательные",История (SDTV)
@@ -586,7 +585,7 @@ http://194.143.148.28:8080/Nauka20/mpegts
 #EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="Познавательные",ОКЕАН (EDTV)
 
 #EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательные",Первый Космический (HD)
-http://stream01.vnet.am/Evrika/mono.m3u8
+
 #EXTINF:-1 tvg-id="poexali" tvg-logo="https://iptvx.one/picons/poexali.png" group-title="Познавательные",Поехали! (EDTV)
 http://91.247.68.229:8000/play/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные",Просвещение (SDTV)
@@ -628,7 +627,7 @@ http://185.23.80.28:8080/Draiv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Хобби и увлечения",Еда (EDTV)
 http://185.23.80.28:8080/Eda/index.m3u8?token=test
 #EXTINF:-1 tvg-id="zhivi-aktivno" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" group-title="Хобби и увлечения",Живи Активно (WSVGA)
-https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
+
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Хобби и увлечения",Загородная Жизнь (EDTV)
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="Хобби и увлечения",Загородный (EDTV)
@@ -660,7 +659,7 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Хобби и увлечения",Тонус (EDTV)
 http://stream01.vnet.am/ZooTv/mono.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-title="Хобби и увлечения",Точка Отрыва (EDTV)
-http://109.200.130.123:7537/play/a022
+
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Хобби и увлечения",Усадьба (EDTV)
 http://130.193.73.10:8937/play/a024
 
